@@ -5,11 +5,21 @@ h1{
 }
 
 h2{
+  text-align: center;
   color: Black; font-family: Trebuchet MS, sans-serif;
 }
 
   
 h3{
+  text-align: center;
   color: Black;font-family: Trebuchet MS, sans-serif;
 }
 
+a:link, a:visited {
+  background-color: LightPink;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
