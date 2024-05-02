@@ -1,4 +1,15 @@
 h1{
-  color: red;
-  background: blue;
-  text-align: center;}
+  text-align: center;
+  background-color: HotPink;color: Black;font-family: Brush Script MT, cursive;font-size:500%;
+  background-color: MistyRose;
+}
+
+h2{
+  color: Black; font-family: Trebuchet MS, sans-serif;
+}
+
+  
+h3{
+  color: Black;font-family: Trebuchet MS, sans-serif;
+}
+
