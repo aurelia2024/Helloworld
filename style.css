@@ -17,6 +17,7 @@ h3{
 }
 
  a:link, a:visited {
+  link-align: center;
   background-color: LightPink;
   color: white;
   padding: 15px 25px;
