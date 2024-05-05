@@ -33,3 +33,7 @@ a:hover, a:active {
   background-color: PaleVioletRed;
 }
 
+a{
+  link-align: center;
+}
+
