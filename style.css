@@ -1,11 +1,17 @@
 
 
 
+
+  
 h1{
+  text-align: left;
+  background-color: MistyRose;
+  color: Black;font-family: Brush Script Mt, cursive;font-size:100%;
+  
 
 h2{
   text-align: center;
-  background: LightPink;
+  background-color: LightPink;
   color: Black;font-family: Brush Script MT, cursive;font-size:300%;
 }
 
@@ -26,9 +32,6 @@ h4{
 
  a:link, a:visited {
   link-align: center;
-  background-color: LightPink;
-  color: white;
-  padding: 5px 10px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
