@@ -1,8 +1,5 @@
 
 h1{
-
-
-h2{
   text-align: center;
   background-image: LightPink;
   color: Black;font-family: Brush Script MT, cursive;font-size:300%;
@@ -12,13 +9,13 @@ background{
   background-color: MistyRose;
 }
 
-h3{
+h2{
   text-align: left;
   color: Black; font-family: Trebuchet MS, sans-serif;
 }
 
   
-h4{
+h3{
   text-align: center;
   color: Black;font-family: Trebuchet MS, sans-serif;
 }
