@@ -1,11 +1,11 @@
 
 
 
-
+h1{
 
 h2{
   text-align: center;
-  background-image: LightPink;
+  background: LightPink;
   color: Black;font-family: Brush Script MT, cursive;font-size:300%;
 }
 
